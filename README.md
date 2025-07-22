@@ -13,3 +13,6 @@ createElement（JSX解析）
 
 
 JSX -> FiberNode(虚拟 Dom)
+
+
+对象字面量，定义一个花括号，来创建对象
